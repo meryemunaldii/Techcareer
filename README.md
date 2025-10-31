@@ -1,0 +1,2 @@
+# Techcareer
+Ödev1
